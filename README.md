@@ -4,8 +4,9 @@ I'm Sergio, Arquitect and programmer, and I'm making my way into the world of so
 
 These are the tools I've been working with:
 
-- ![Static Badge](https://img.shields.io/badge/3.10-gray?logo=python&logoColor=white&label=Python&labelColor=darkgreen)
-- ![Static Badge](https://img.shields.io/badge/ES5-gray?logo=javascript&logoColor=white&label=JavaScript&labelColor=darkgreen)
+- ![Static Badge](https://img.shields.io/badge/3.10-gray?logo=python&logoColor=white&label=Python&labelColor=black)
+- ![Static Badge](https://img.shields.io/badge/ES5-gray?logo=javascript&logoColor=white&label=JavaScript&labelColor=black)
+- ![Static Badge](https://img.shields.io/badge/3.7-gray?logo=jquery&logoColor=white&label=jQuery&labelColor=black)
 <!--
 **Sanvals/Sanvals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
