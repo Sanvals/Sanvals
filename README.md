@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Sergio, Arquitect and programmer, and I'm making my way into the world of software engineering.
+
+These are the tools I've been working with:
+
+- ![Static Badge](https://img.shields.io/badge/3.10-gray?logo=python&logoColor=white&label=Python&labelColor=darkgreen)
+- ![Static Badge](https://img.shields.io/badge/ES5-gray?logo=javascript&logoColor=white&label=JavaScript&labelColor=darkgreen)
 <!--
 **Sanvals/Sanvals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
