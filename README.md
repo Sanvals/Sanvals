@@ -11,9 +11,6 @@ These are the tools I've been working with:
 - ![Static Badge](https://img.shields.io/badge/2.3.2-gray?logo=flask&logoColor=white&label=Flask&labelColor=black)
 - ![Static Badge](https://img.shields.io/badge/2.7-gray?logo=django&logoColor=white&label=Django&labelColor=black)
 
-These are my certificates:
-
-- 
 <!--
 **Sanvals/Sanvals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
